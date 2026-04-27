@@ -2,7 +2,7 @@
     "name": "sentinelphp/core",
     "description": "SentinelPHP core library - HTTP client wrapper for intercepting and storing API calls with PII redaction and schema generation",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "keywords": ["sentinel", "api", "monitoring", "schema", "drift", "http-client", "interceptor", "logging"],
     "homepage": "https://github.com/SentinelPHP/core",
     "authors": [

@@ -416,4 +416,4 @@ SENTINEL_API_TOKEN=your-api-token
 
 ## License
 
-MIT
+GPL v3 — see LICENSE for details
